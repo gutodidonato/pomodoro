@@ -129,5 +129,7 @@ start.grid(row=2, column=0)
 reset = Button()
 reset.config(text="Reset", command=resetar)
 reset.grid(row=2, column=2)
+""""""
+print("iniciando pomodoro...")
 window.mainloop()
 """"""
